@@ -4,5 +4,6 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {},
+	"python.defaultInterpreterPath": "C:\\Users\\VGS\\Envs\\cropaienv\\Scripts\\python.exe"
 }
